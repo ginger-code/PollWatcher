@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PollWatcher", "PollWatcher\PollWatcher.csproj", "{9ECA15EC-7144-41F0-992E-1F518DF9B68B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PollWatcher.Demo", "PollWatcher.Demo\PollWatcher.Demo.csproj", "{BAEC1194-AA82-45DD-9015-BEC115BDBC12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9ECA15EC-7144-41F0-992E-1F518DF9B68B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ECA15EC-7144-41F0-992E-1F518DF9B68B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ECA15EC-7144-41F0-992E-1F518DF9B68B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ECA15EC-7144-41F0-992E-1F518DF9B68B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAEC1194-AA82-45DD-9015-BEC115BDBC12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAEC1194-AA82-45DD-9015-BEC115BDBC12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAEC1194-AA82-45DD-9015-BEC115BDBC12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAEC1194-AA82-45DD-9015-BEC115BDBC12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
